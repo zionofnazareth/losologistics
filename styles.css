@@ -1,0 +1,65 @@
+p {
+    color: purple;
+    font-size: 28px;
+    font-weight: bolder;
+    
+}
+
+body {
+    background-image: url(./images/Gallery_20241003_051915.png);
+   
+    background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+}
+
+.container {
+    color:blue;
+    font-weight: 10px;
+    font-size: 40px;
+    margin-left: 5px;
+    margin-top: 100px;
+    
+}
+
+.price{
+    margin-top: 50px;
+    align-items: center;
+    color: blue;
+    margin-left: 5px;
+    font-size: larger;
+}
+
+.move{
+    margin-top: -230px;
+    align-items: center;
+    color: blue;
+    margin-left: 200px;
+}
+button{
+    margin-left: 20px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.h2{
+    margin-left: 80px;
+    color:blue;
+    font-size: 40px ;
+    margin-top: -10px;
+}
+
+.h5{
+    margin-left: 80px;
+    color: blue;
+    font-size: 40px ;
+    margin-top: -10px;
+}
